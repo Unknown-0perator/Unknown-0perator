@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ahmad Rashid A.K.A (Unknown-0perator)</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Rashid Akhtar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+
 
 - 📘 I’m currently learning **ReactJs**
 
