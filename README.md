@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Rashid Akhtar</h1>
+<h1 align="center">Ahmad Akhtar</h1>
 
 ## GitHub stats:
 
